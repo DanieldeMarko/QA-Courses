@@ -1,0 +1,480 @@
+{
+	"info": {
+		"_postman_id": "d4601b28-d219-4e3f-b63e-3eb9b9153582",
+		"name": "TimeWise Web App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "38626188"
+	},
+	"item": [
+		{
+			"name": "User Registration",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJhODUyMWNjNi1lZDc0LTQ3NDUtYjI2YS1iNTEwZmM5YzFjMzgiLCJpYXQiOiIxMi8xNi8yMDIzIDk6MDA6MTEgQU0iLCJVc2VySWQiOiJkYWE4YTZlZS0xNWI1LTQ4N2EtOWI2YS02NzVjYjhmYjc2OTUiLCJFbWFpbCI6IkFsZXhAYWJ2LmJnIiwiVXNlck5hbWUiOiJBbGV4MDIxMCIsImV4cCI6MTcwMjczODgxMSwiaXNzIjoiVGltZVdpc2VfQXBwX1NvZnRVbmkiLCJhdWQiOiJUaW1lV2lzZV9XZWJBUElfU29mdFVuaSJ9.QuShECMbISeN3P9cKDc-K8yKniOmQ22Iy0TUy33uO_w"
+					}
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"taskName\": \"Start do exersice\",\n  \"startDate\": \"01/01/2024 16:28\",\n  \"endDate\": \"31/12/2024 18:28\",\n  \"description\": \"New year's challenge for healthy body\",\n  \"status\": \"ToDo\"\n} "
+				},
+				"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/User/Register"
+			},
+			"response": [
+				{
+					"name": "User Registration",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"userName\": \"Daniel2\",\n  \"firstName\": \"Daniel\",\n  \"midName\": \"Panteleev\",\n  \"lastName\": \"Karapandov\",\n  \"email\": \"daniel.de.marko@outlook.com\",\n  \"password\": \"123456\",\n  \"rePassword\": \"123456\"\n}"
+						},
+						"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/User/Register"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Sat, 14 Dec 2024 09:54:17 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "114"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"msg\": \"Account created successful\",\n    \"email\": \"daniel.de.marko@outlook.com\",\n    \"username\": \"Daniel2\",\n    \"accessToken\": null\n}"
+				}
+			]
+		},
+		{
+			"name": "User Authorization",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJhODUyMWNjNi1lZDc0LTQ3NDUtYjI2YS1iNTEwZmM5YzFjMzgiLCJpYXQiOiIxMi8xNi8yMDIzIDk6MDA6MTEgQU0iLCJVc2VySWQiOiJkYWE4YTZlZS0xNWI1LTQ4N2EtOWI2YS02NzVjYjhmYjc2OTUiLCJFbWFpbCI6IkFsZXhAYWJ2LmJnIiwiVXNlck5hbWUiOiJBbGV4MDIxMCIsImV4cCI6MTcwMjczODgxMSwiaXNzIjoiVGltZVdpc2VfQXBwX1NvZnRVbmkiLCJhdWQiOiJUaW1lV2lzZV9XZWJBUElfU29mdFVuaSJ9.QuShECMbISeN3P9cKDc-K8yKniOmQ22Iy0TUy33uO_w"
+					}
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"taskName\": \"Start do exersice\",\n  \"startDate\": \"01/01/2024 16:28\",\n  \"endDate\": \"31/12/2024 18:28\",\n  \"description\": \"New year's challenge for healthy body\",\n  \"status\": \"ToDo\"\n} "
+				},
+				"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/User/Authorization"
+			},
+			"response": [
+				{
+					"name": "User Authorization",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"email\": \"daniel.de.marko@outlook.com\",\n  \"password\": \"123456\"\n}\n"
+						},
+						"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/User/Authorization"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Sat, 14 Dec 2024 09:54:50 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "545"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"email\": \"daniel.de.marko@outlook.com\",\n    \"password\": \"123456\",\n    \"accessToken\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiI1NTE2NTg4Yi0yYTQwLTQ4NDgtOGFjYy1mMmJhNGJiOWRhMzAiLCJpYXQiOiIxMi8xNC8yMDI0IDk6NTQ6NTAgQU0iLCJVc2VySWQiOiJhMWY0N2EyYS00YThlLTQ4MzctOGJjZC01ZjQxMTFkZWQzMzAiLCJFbWFpbCI6ImRhbmllbC5kZS5tYXJrb0BvdXRsb29rLmNvbSIsIlVzZXJOYW1lIjoiRGFuaWVsMiIsImV4cCI6MTczNDE5MTY5MCwiaXNzIjoiVGltZVdpc2VfQXBwX1NvZnRVbmkiLCJhdWQiOiJUaW1lV2lzZV9XZWJBUElfU29mdFVuaSJ9._FK_PiYHmdmTjfyQFOcJrzQK7JKDLQ9NTZN-2yIvmE8\"\n}"
+				}
+			]
+		},
+		{
+			"name": "Task Count",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/Count"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Sat, 14 Dec 2024 09:55:43 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "64"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"totalTasks\": 0,\n    \"byStatuses\": {\n        \"toDo\": 0,\n        \"inProgress\": 0,\n        \"done\": 0\n    }\n}"
+				}
+			]
+		},
+		{
+			"name": "Create a new task",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJhODUyMWNjNi1lZDc0LTQ3NDUtYjI2YS1iNTEwZmM5YzFjMzgiLCJpYXQiOiIxMi8xNi8yMDIzIDk6MDA6MTEgQU0iLCJVc2VySWQiOiJkYWE4YTZlZS0xNWI1LTQ4N2EtOWI2YS02NzVjYjhmYjc2OTUiLCJFbWFpbCI6IkFsZXhAYWJ2LmJnIiwiVXNlck5hbWUiOiJBbGV4MDIxMCIsImV4cCI6MTcwMjczODgxMSwiaXNzIjoiVGltZVdpc2VfQXBwX1NvZnRVbmkiLCJhdWQiOiJUaW1lV2lzZV9XZWJBUElfU29mdFVuaSJ9.QuShECMbISeN3P9cKDc-K8yKniOmQ22Iy0TUy33uO_w"
+					}
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"taskName\": \"Start do exersice\",\n  \"startDate\": \"01/01/2024 16:28\",\n  \"endDate\": \"31/12/2024 18:28\",\n  \"description\": \"New year's challenge for healthy body\",\n  \"status\": \"ToDo\"\n} "
+				},
+				"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/Create"
+			},
+			"response": [
+				{
+					"name": "Create a new task",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"taskName\": \"MySoftUni\",\n  \"startDate\": \"14/12/2024 11:43\",\n  \"endDate\": \"31/12/2024 18:28\",\n  \"description\": \"Taking the exam with the best grade and becoming QA\",\n  \"status\": \"ToDo\"\n} "
+						},
+						"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/Create"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Sat, 14 Dec 2024 09:58:46 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "36"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"msg\": \"Task created successfully!\"\n}"
+				}
+			]
+		},
+		{
+			"name": "Edit task",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJhODUyMWNjNi1lZDc0LTQ3NDUtYjI2YS1iNTEwZmM5YzFjMzgiLCJpYXQiOiIxMi8xNi8yMDIzIDk6MDA6MTEgQU0iLCJVc2VySWQiOiJkYWE4YTZlZS0xNWI1LTQ4N2EtOWI2YS02NzVjYjhmYjc2OTUiLCJFbWFpbCI6IkFsZXhAYWJ2LmJnIiwiVXNlck5hbWUiOiJBbGV4MDIxMCIsImV4cCI6MTcwMjczODgxMSwiaXNzIjoiVGltZVdpc2VfQXBwX1NvZnRVbmkiLCJhdWQiOiJUaW1lV2lzZV9XZWJBUElfU29mdFVuaSJ9.QuShECMbISeN3P9cKDc-K8yKniOmQ22Iy0TUy33uO_w"
+					}
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"taskName\": \"Start do exersice\",\n  \"startDate\": \"01/01/2024 17:28\",\n  \"endDate\": \"31/12/2024 19:28\",\n  \"description\": \"New year's challenge for healthy body. Must do this every morning.\",\n  \"status\": \"InProgress\"\n}"
+				},
+				"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/Edit/a25a4b8f-879b-46b5-1de8-08dbfe0f1975"
+			},
+			"response": [
+				{
+					"name": "Edit task",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"taskName\": \"Start do exersice\",\n  \"startDate\": \"01/01/2024 17:28\",\n  \"endDate\": \"31/12/2024 19:28\",\n  \"description\": \"New year's challenge for healthy body. Must do this every morning.\",\n  \"status\": \"InProgress\"\n}"
+						},
+						"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/Edit/7313957f-6519-485f-5c03-08dd1c0e9add"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Sat, 14 Dec 2024 09:59:49 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "35"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"msg\": \"Task edited successfully!\"\n}"
+				}
+			]
+		},
+		{
+			"name": "List all tasks",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJhODUyMWNjNi1lZDc0LTQ3NDUtYjI2YS1iNTEwZmM5YzFjMzgiLCJpYXQiOiIxMi8xNi8yMDIzIDk6MDA6MTEgQU0iLCJVc2VySWQiOiJkYWE4YTZlZS0xNWI1LTQ4N2EtOWI2YS02NzVjYjhmYjc2OTUiLCJFbWFpbCI6IkFsZXhAYWJ2LmJnIiwiVXNlck5hbWUiOiJBbGV4MDIxMCIsImV4cCI6MTcwMjczODgxMSwiaXNzIjoiVGltZVdpc2VfQXBwX1NvZnRVbmkiLCJhdWQiOiJUaW1lV2lzZV9XZWJBUElfU29mdFVuaSJ9.QuShECMbISeN3P9cKDc-K8yKniOmQ22Iy0TUy33uO_w"
+					}
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/AllTasks"
+			},
+			"response": [
+				{
+					"name": "List all tasks",
+					"originalRequest": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/json",
+								"type": "text"
+							}
+						],
+						"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/AllTasks"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Sat, 14 Dec 2024 10:02:56 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "286"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"allTasks\": [\n        {\n            \"id\": \"7313957f-6519-485f-5c03-08dd1c0e9add\",\n            \"taskName\": \"Start do exersice\",\n            \"startDate\": \"01/01/2024 17:28\",\n            \"endDate\": \"31/12/2024 19:28\",\n            \"cratedOn\": \"14/12/2024 09:58\",\n            \"description\": \"New year's challenge for healthy body. Must do this every morning.\",\n            \"status\": \"InProgress\"\n        }\n    ]\n}"
+				}
+			]
+		},
+		{
+			"name": "Delete task",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": {
+						"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiJhODUyMWNjNi1lZDc0LTQ3NDUtYjI2YS1iNTEwZmM5YzFjMzgiLCJpYXQiOiIxMi8xNi8yMDIzIDk6MDA6MTEgQU0iLCJVc2VySWQiOiJkYWE4YTZlZS0xNWI1LTQ4N2EtOWI2YS02NzVjYjhmYjc2OTUiLCJFbWFpbCI6IkFsZXhAYWJ2LmJnIiwiVXNlck5hbWUiOiJBbGV4MDIxMCIsImV4cCI6MTcwMjczODgxMSwiaXNzIjoiVGltZVdpc2VfQXBwX1NvZnRVbmkiLCJhdWQiOiJUaW1lV2lzZV9XZWJBUElfU29mdFVuaSJ9.QuShECMbISeN3P9cKDc-K8yKniOmQ22Iy0TUy33uO_w"
+					}
+				},
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/Delete/a25a4b8f-879b-46b5-1de8-08dbfe0f1975"
+			},
+			"response": [
+				{
+					"name": "Delete task",
+					"originalRequest": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": "http://timewise2-env.eba-mkmm3jwy.eu-north-1.elasticbeanstalk.com/api/Task/Delete/7313957f-6519-485f-5c03-08dd1c0e9add"
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Sat, 14 Dec 2024 10:03:14 GMT"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "36"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"msg\": \"Task deleted successfully!\"\n}"
+				}
+			]
+		}
+	]
+}
