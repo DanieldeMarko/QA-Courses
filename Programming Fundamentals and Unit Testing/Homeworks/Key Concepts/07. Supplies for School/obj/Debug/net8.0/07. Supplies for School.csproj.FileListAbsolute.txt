@@ -1,0 +1,14 @@
+E:\source\Key Concepts\07. Supplies for School\bin\Debug\net8.0\07. Supplies for School.exe
+E:\source\Key Concepts\07. Supplies for School\bin\Debug\net8.0\07. Supplies for School.deps.json
+E:\source\Key Concepts\07. Supplies for School\bin\Debug\net8.0\07. Supplies for School.runtimeconfig.json
+E:\source\Key Concepts\07. Supplies for School\bin\Debug\net8.0\07. Supplies for School.dll
+E:\source\Key Concepts\07. Supplies for School\bin\Debug\net8.0\07. Supplies for School.pdb
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\07. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\07. Supplies for School.AssemblyInfoInputs.cache
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\07. Supplies for School.AssemblyInfo.cs
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\07. Supplies for School.csproj.CoreCompileInputs.cache
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\07. Supplies for School.dll
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\refint\07. Supplies for School.dll
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\07. Supplies for School.pdb
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\07. Supplies for School.genruntimeconfig.cache
+E:\source\Key Concepts\07. Supplies for School\obj\Debug\net8.0\ref\07. Supplies for School.dll

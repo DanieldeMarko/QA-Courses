@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\Desislava\bin\Debug\net8.0\Desislava.exe
+E:\source\ConsoleAppSoftUNI\Desislava\bin\Debug\net8.0\Desislava.deps.json
+E:\source\ConsoleAppSoftUNI\Desislava\bin\Debug\net8.0\Desislava.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\Desislava\bin\Debug\net8.0\Desislava.dll
+E:\source\ConsoleAppSoftUNI\Desislava\bin\Debug\net8.0\Desislava.pdb
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\Desislava.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\Desislava.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\Desislava.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\Desislava.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\Desislava.dll
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\refint\Desislava.dll
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\Desislava.pdb
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\Desislava.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\Desislava\obj\Debug\net8.0\ref\Desislava.dll

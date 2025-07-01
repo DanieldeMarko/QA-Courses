@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\09. Days to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\09. Days to Minutes.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\09. Days to Minutes.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\09. Days to Minutes.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\bin\Debug\net8.0\09. Days to Minutes.exe
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\bin\Debug\net8.0\09. Days to Minutes.deps.json
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\bin\Debug\net8.0\09. Days to Minutes.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\bin\Debug\net8.0\09. Days to Minutes.dll
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\bin\Debug\net8.0\09. Days to Minutes.pdb
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\09. Days to Minutes.dll
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\refint\09. Days to Minutes.dll
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\09. Days to Minutes.pdb
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\09. Days to Minutes.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\09. Days to Minutes\obj\Debug\net8.0\ref\09. Days to Minutes.dll

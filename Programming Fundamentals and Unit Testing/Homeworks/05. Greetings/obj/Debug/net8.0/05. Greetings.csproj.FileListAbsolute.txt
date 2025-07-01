@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\05. Greetings.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\05. Greetings.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\05. Greetings.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\05. Greetings.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\05. Greetings\bin\Debug\net8.0\05. Greetings.exe
+E:\source\ConsoleAppSoftUNI\05. Greetings\bin\Debug\net8.0\05. Greetings.deps.json
+E:\source\ConsoleAppSoftUNI\05. Greetings\bin\Debug\net8.0\05. Greetings.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\05. Greetings\bin\Debug\net8.0\05. Greetings.dll
+E:\source\ConsoleAppSoftUNI\05. Greetings\bin\Debug\net8.0\05. Greetings.pdb
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\05. Greetings.dll
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\refint\05. Greetings.dll
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\05. Greetings.pdb
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\05. Greetings.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\05. Greetings\obj\Debug\net8.0\ref\05. Greetings.dll

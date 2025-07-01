@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QR2rHeD+4Yc=",
+  "success": true,
+  "projectFilePath": "E:\\QAFundamentals\\Programming Fundamentals and Unit Testing\\28. Exam\\03. Even Numbers in Range\\03-Even-Numbers-in-Range-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel de Marko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Daniel de Marko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Daniel de Marko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

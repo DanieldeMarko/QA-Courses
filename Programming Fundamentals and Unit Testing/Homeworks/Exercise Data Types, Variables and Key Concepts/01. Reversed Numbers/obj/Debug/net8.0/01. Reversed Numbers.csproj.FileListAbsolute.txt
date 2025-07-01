@@ -1,0 +1,14 @@
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\bin\Debug\net8.0\01. Reversed Numbers.exe
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\bin\Debug\net8.0\01. Reversed Numbers.deps.json
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\bin\Debug\net8.0\01. Reversed Numbers.runtimeconfig.json
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\bin\Debug\net8.0\01. Reversed Numbers.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\bin\Debug\net8.0\01. Reversed Numbers.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\01. Reversed Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\01. Reversed Numbers.AssemblyInfoInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\01. Reversed Numbers.AssemblyInfo.cs
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\01. Reversed Numbers.csproj.CoreCompileInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\01. Reversed Numbers.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\refint\01. Reversed Numbers.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\01. Reversed Numbers.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\01. Reversed Numbers.genruntimeconfig.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\01. Reversed Numbers\obj\Debug\net8.0\ref\01. Reversed Numbers.dll

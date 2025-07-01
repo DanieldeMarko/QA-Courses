@@ -1,0 +1,14 @@
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\bin\Debug\net8.0\06. Aquarium.exe
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\bin\Debug\net8.0\06. Aquarium.deps.json
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\bin\Debug\net8.0\06. Aquarium.runtimeconfig.json
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\bin\Debug\net8.0\06. Aquarium.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\bin\Debug\net8.0\06. Aquarium.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\06. Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\06. Aquarium.AssemblyInfoInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\06. Aquarium.AssemblyInfo.cs
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\06. Aquarium.csproj.CoreCompileInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\06. Aquarium.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\refint\06. Aquarium.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\06. Aquarium.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\06. Aquarium.genruntimeconfig.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\06. Aquarium\obj\Debug\net8.0\ref\06. Aquarium.dll

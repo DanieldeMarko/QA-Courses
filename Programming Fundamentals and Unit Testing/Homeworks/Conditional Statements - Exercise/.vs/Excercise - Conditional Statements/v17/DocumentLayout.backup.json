@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A058AF-2378-4B92-8B81-BCD17C2B4CDC}|05. Vacation Expenses\\05. Vacation Expenses.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\05. vacation expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A058AF-2378-4B92-8B81-BCD17C2B4CDC}|05. Vacation Expenses\\05. Vacation Expenses.csproj|solutionrelative:05. vacation expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493E9526-E7F3-44EE-BDAA-20DEA57DD181}|10. Summer Outfit\\10. Summer Outfit.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\10. summer outfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493E9526-E7F3-44EE-BDAA-20DEA57DD181}|10. Summer Outfit\\10. Summer Outfit.csproj|solutionrelative:10. summer outfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493E9526-E7F3-44EE-BDAA-20DEA57DD181}|10. Summer Outfit\\10. Summer Outfit.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\10. summer outfit\\10. summer outfit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{493E9526-E7F3-44EE-BDAA-20DEA57DD181}|10. Summer Outfit\\10. Summer Outfit.csproj|solutionrelative:10. summer outfit\\10. summer outfit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1ED9C2-BDE2-46E9-B218-562EA261829B}|09. Sum Seconds\\09. Sum Seconds.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\09. sum seconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1ED9C2-BDE2-46E9-B218-562EA261829B}|09. Sum Seconds\\09. Sum Seconds.csproj|solutionrelative:09. sum seconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782D2220-013F-473E-B919-276A8617AC4A}|08. Fruit or Vegetable\\08. Fruit or Vegetable.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\08. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782D2220-013F-473E-B919-276A8617AC4A}|08. Fruit or Vegetable\\08. Fruit or Vegetable.csproj|solutionrelative:08. fruit or vegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED9B56-52E9-45AF-B7C8-0179991D2D15}|06. Product of Three Numbers\\06. Product of Three Numbers.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\06. product of three numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DED9B56-52E9-45AF-B7C8-0179991D2D15}|06. Product of Three Numbers\\06. Product of Three Numbers.csproj|solutionrelative:06. product of three numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDDDB5B-14D3-46DB-91E3-85054C3C8900}|07. Working Hours\\07. Working Hours.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDDDB5B-14D3-46DB-91E3-85054C3C8900}|07. Working Hours\\07. Working Hours.csproj|solutionrelative:07. working hours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BF9F9E-862F-4270-B0EC-43B9D9C7FA43}|Demo2\\Demo2.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BF9F9E-862F-4270-B0EC-43B9D9C7FA43}|Demo2\\Demo2.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B71CF8-117A-4BB2-96CD-2EFF98E41385}|Conditional Statements - Exercise\\01. Number Type.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\conditional statements - exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B71CF8-117A-4BB2-96CD-2EFF98E41385}|Conditional Statements - Exercise\\01. Number Type.csproj|solutionrelative:conditional statements - exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA34A9-68E6-424E-947E-137EE4FCC23D}|02. ATM\\02. ATM.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\02. atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA34A9-68E6-424E-947E-137EE4FCC23D}|02. ATM\\02. ATM.csproj|solutionrelative:02. atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7FDCCC-2A91-488C-9D15-258DAF5E7E07}|03. Biggest of Five Numbers\\03. Biggest of Five Numbers.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\03. biggest of five numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7FDCCC-2A91-488C-9D15-258DAF5E7E07}|03. Biggest of Five Numbers\\03. Biggest of Five Numbers.csproj|solutionrelative:03. biggest of five numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06214BF6-5141-4742-A0E5-D4829F51F33C}|04. Number Operator ver. 2.0\\04. Number Operator ver. 2.0.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\04. number operator ver. 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06214BF6-5141-4742-A0E5-D4829F51F33C}|04. Number Operator ver. 2.0\\04. Number Operator ver. 2.0.csproj|solutionrelative:04. number operator ver. 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F24248-27D5-460F-AE17-1682FD564CD6}|04. Number Operations\\04. Number Operations.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\04. number operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F24248-27D5-460F-AE17-1682FD564CD6}|04. Number Operations\\04. Number Operations.csproj|solutionrelative:04. number operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A058AF-2378-4B92-8B81-BCD17C2B4CDC}|05. Vacation Expenses\\05. Vacation Expenses.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\05. vacation expenses\\05. vacation expenses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93A058AF-2378-4B92-8B81-BCD17C2B4CDC}|05. Vacation Expenses\\05. Vacation Expenses.csproj|solutionrelative:05. vacation expenses\\05. vacation expenses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDDDB5B-14D3-46DB-91E3-85054C3C8900}|07. Working Hours\\07. Working Hours.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\07. working hours\\07. working hours.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EDDDB5B-14D3-46DB-91E3-85054C3C8900}|07. Working Hours\\07. Working Hours.csproj|solutionrelative:07. working hours\\07. working hours.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DED9B56-52E9-45AF-B7C8-0179991D2D15}|06. Product of Three Numbers\\06. Product of Three Numbers.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\06. product of three numbers\\06. product of three numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DED9B56-52E9-45AF-B7C8-0179991D2D15}|06. Product of Three Numbers\\06. Product of Three Numbers.csproj|solutionrelative:06. product of three numbers\\06. product of three numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F24248-27D5-460F-AE17-1682FD564CD6}|04. Number Operations\\04. Number Operations.csproj|c:\\users\\daniel de marko\\source\\repos\\conditional statements - exercise\\04. number operations\\04. number operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9F24248-27D5-460F-AE17-1682FD564CD6}|04. Number Operations\\04. Number Operations.csproj|solutionrelative:04. number operations\\04. number operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\09. Sum Seconds\\Program.cs",
+              "RelativeDocumentMoniker": "09. Sum Seconds\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\09. Sum Seconds\\Program.cs",
+              "RelativeToolTip": "09. Sum Seconds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:04:18.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\Conditional Statements - Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Conditional Statements - Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\Conditional Statements - Exercise\\Program.cs",
+              "RelativeToolTip": "Conditional Statements - Exercise\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:04:07.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\02. ATM\\Program.cs",
+              "RelativeDocumentMoniker": "02. ATM\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\02. ATM\\Program.cs",
+              "RelativeToolTip": "02. ATM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:04:02.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\03. Biggest of Five Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Biggest of Five Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\03. Biggest of Five Numbers\\Program.cs",
+              "RelativeToolTip": "03. Biggest of Five Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:03:54.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\05. Vacation Expenses\\Program.cs",
+              "RelativeDocumentMoniker": "05. Vacation Expenses\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\05. Vacation Expenses\\Program.cs",
+              "RelativeToolTip": "05. Vacation Expenses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:01:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\07. Working Hours\\Program.cs",
+              "RelativeDocumentMoniker": "07. Working Hours\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\07. Working Hours\\Program.cs",
+              "RelativeToolTip": "07. Working Hours\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:39:18.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\06. Product of Three Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "06. Product of Three Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\06. Product of Three Numbers\\Program.cs",
+              "RelativeToolTip": "06. Product of Three Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:19:17.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\10. Summer Outfit\\Program.cs",
+              "RelativeDocumentMoniker": "10. Summer Outfit\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\10. Summer Outfit\\Program.cs",
+              "RelativeToolTip": "10. Summer Outfit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:10:14.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10. Summer Outfit.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj",
+              "RelativeDocumentMoniker": "10. Summer Outfit\\10. Summer Outfit.csproj",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\10. Summer Outfit\\10. Summer Outfit.csproj",
+              "RelativeToolTip": "10. Summer Outfit\\10. Summer Outfit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T11:10:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\08. Fruit or Vegetable\\Program.cs",
+              "RelativeDocumentMoniker": "08. Fruit or Vegetable\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\08. Fruit or Vegetable\\Program.cs",
+              "RelativeToolTip": "08. Fruit or Vegetable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:04:14.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\Demo2\\Program.cs",
+              "RelativeToolTip": "Demo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:04:26.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\04. Number Operator ver. 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "04. Number Operator ver. 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\04. Number Operator ver. 2.0\\Program.cs",
+              "RelativeToolTip": "04. Number Operator ver. 2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:41:54.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "05. Vacation Expenses.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\05. Vacation Expenses\\05. Vacation Expenses.csproj",
+              "RelativeDocumentMoniker": "05. Vacation Expenses\\05. Vacation Expenses.csproj",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\05. Vacation Expenses\\05. Vacation Expenses.csproj",
+              "RelativeToolTip": "05. Vacation Expenses\\05. Vacation Expenses.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T11:01:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "07. Working Hours.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\07. Working Hours\\07. Working Hours.csproj",
+              "RelativeDocumentMoniker": "07. Working Hours\\07. Working Hours.csproj",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\07. Working Hours\\07. Working Hours.csproj",
+              "RelativeToolTip": "07. Working Hours\\07. Working Hours.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T18:39:17.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "06. Product of Three Numbers.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\06. Product of Three Numbers\\06. Product of Three Numbers.csproj",
+              "RelativeDocumentMoniker": "06. Product of Three Numbers\\06. Product of Three Numbers.csproj",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\06. Product of Three Numbers\\06. Product of Three Numbers.csproj",
+              "RelativeToolTip": "06. Product of Three Numbers\\06. Product of Three Numbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T18:19:12.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\04. Number Operations\\Program.cs",
+              "RelativeDocumentMoniker": "04. Number Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\04. Number Operations\\Program.cs",
+              "RelativeToolTip": "04. Number Operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:25:27.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "04. Number Operations.csproj",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj",
+              "RelativeDocumentMoniker": "04. Number Operations\\04. Number Operations.csproj",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Conditional Statements - Exercise\\04. Number Operations\\04. Number Operations.csproj",
+              "RelativeToolTip": "04. Number Operations\\04. Number Operations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T17:25:23.546Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

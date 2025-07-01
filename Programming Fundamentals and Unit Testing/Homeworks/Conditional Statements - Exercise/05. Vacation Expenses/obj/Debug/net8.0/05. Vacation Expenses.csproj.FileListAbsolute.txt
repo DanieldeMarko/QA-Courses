@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.exe
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.deps.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\bin\Debug\net8.0\05. Vacation Expenses.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\refint\05. Vacation Expenses.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\05. Vacation Expenses.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\05. Vacation Expenses\obj\Debug\net8.0\ref\05. Vacation Expenses.dll

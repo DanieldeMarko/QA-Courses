@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\bin\Debug\net8.0\05. Invalid Number.exe
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\bin\Debug\net8.0\05. Invalid Number.deps.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\bin\Debug\net8.0\05. Invalid Number.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\bin\Debug\net8.0\05. Invalid Number.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\bin\Debug\net8.0\05. Invalid Number.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\05. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\05. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\05. Invalid Number.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\05. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\05. Invalid Number.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\refint\05. Invalid Number.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\05. Invalid Number.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\05. Invalid Number.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\05. Invalid Number\obj\Debug\net8.0\ref\05. Invalid Number.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\bin\Debug\net8.0\06. Day of the Week ver. 2.0.exe
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\bin\Debug\net8.0\06. Day of the Week ver. 2.0.deps.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\bin\Debug\net8.0\06. Day of the Week ver. 2.0.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\bin\Debug\net8.0\06. Day of the Week ver. 2.0.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\bin\Debug\net8.0\06. Day of the Week ver. 2.0.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\06. Day of the Week ver. 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\06. Day of the Week ver. 2.0.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\06. Day of the Week ver. 2.0.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\06. Day of the Week ver. 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\06. Day of the Week ver. 2.0.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\refint\06. Day of the Week ver. 2.0.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\06. Day of the Week ver. 2.0.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\06. Day of the Week ver. 2.0.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the Week ver. 2.0\obj\Debug\net8.0\ref\06. Day of the Week ver. 2.0.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.exe
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.deps.json
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.dll
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\bin\Debug\net8.0\03. Sum Numbers.pdb
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.dll
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\refint\03. Sum Numbers.dll
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.pdb
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\03. Sum Numbers.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\For Loop\03. Sum Numbers\obj\Debug\net8.0\ref\03. Sum Numbers.dll

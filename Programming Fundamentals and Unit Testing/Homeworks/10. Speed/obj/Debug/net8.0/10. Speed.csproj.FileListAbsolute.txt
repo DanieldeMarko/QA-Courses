@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\10. Speed\bin\Debug\net8.0\10. Speed.exe
+E:\source\ConsoleAppSoftUNI\10. Speed\bin\Debug\net8.0\10. Speed.deps.json
+E:\source\ConsoleAppSoftUNI\10. Speed\bin\Debug\net8.0\10. Speed.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\10. Speed\bin\Debug\net8.0\10. Speed.dll
+E:\source\ConsoleAppSoftUNI\10. Speed\bin\Debug\net8.0\10. Speed.pdb
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\10. Speed.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\10. Speed.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\10. Speed.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\10. Speed.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\10. Speed.dll
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\refint\10. Speed.dll
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\10. Speed.pdb
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\10. Speed.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\10. Speed\obj\Debug\net8.0\ref\10. Speed.dll

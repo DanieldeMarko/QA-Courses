@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.exe
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.deps.json
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.dll
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\bin\Debug\net8.0\04. Numbers Ending in 7.pdb
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.dll
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\refint\04. Numbers Ending in 7.dll
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.pdb
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\04. Numbers Ending in 7.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\For Loop\04. Numbers Ending in 7\obj\Debug\net8.0\ref\04. Numbers Ending in 7.dll

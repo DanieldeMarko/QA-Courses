@@ -1,0 +1,14 @@
+E:\source\Key Concepts\01. USD to EURO\bin\Debug\net8.0\01. Euro to USD.exe
+E:\source\Key Concepts\01. USD to EURO\bin\Debug\net8.0\01. Euro to USD.deps.json
+E:\source\Key Concepts\01. USD to EURO\bin\Debug\net8.0\01. Euro to USD.runtimeconfig.json
+E:\source\Key Concepts\01. USD to EURO\bin\Debug\net8.0\01. Euro to USD.dll
+E:\source\Key Concepts\01. USD to EURO\bin\Debug\net8.0\01. Euro to USD.pdb
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\01. Euro to USD.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\01. Euro to USD.AssemblyInfoInputs.cache
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\01. Euro to USD.AssemblyInfo.cs
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\01. Euro to USD.csproj.CoreCompileInputs.cache
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\01. Euro to USD.dll
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\refint\01. Euro to USD.dll
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\01. Euro to USD.pdb
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\01. Euro to USD.genruntimeconfig.cache
+E:\source\Key Concepts\01. USD to EURO\obj\Debug\net8.0\ref\01. Euro to USD.dll

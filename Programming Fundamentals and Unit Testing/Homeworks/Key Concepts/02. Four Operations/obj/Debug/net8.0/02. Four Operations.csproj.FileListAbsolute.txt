@@ -1,0 +1,14 @@
+E:\source\Key Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.exe
+E:\source\Key Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.deps.json
+E:\source\Key Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.runtimeconfig.json
+E:\source\Key Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.dll
+E:\source\Key Concepts\02. Four Operations\bin\Debug\net8.0\02. Four Operations.pdb
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.AssemblyInfoInputs.cache
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.AssemblyInfo.cs
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.csproj.CoreCompileInputs.cache
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.dll
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\refint\02. Four Operations.dll
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.pdb
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\02. Four Operations.genruntimeconfig.cache
+E:\source\Key Concepts\02. Four Operations\obj\Debug\net8.0\ref\02. Four Operations.dll

@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.exe
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.deps.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\bin\Debug\net8.0\04. Food or Drink.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\refint\04. Food or Drink.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\04. Food or Drink.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\04. Food or Drink\obj\Debug\net8.0\ref\04. Food or Drink.dll

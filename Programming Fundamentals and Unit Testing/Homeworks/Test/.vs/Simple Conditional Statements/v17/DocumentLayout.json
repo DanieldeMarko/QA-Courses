@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5956398-8397-4D16-B911-CDB5344D3916}|07. Speed Info\\07. Speed Info.csproj|e:\\source\\test\\07. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5956398-8397-4D16-B911-CDB5344D3916}|07. Speed Info\\07. Speed Info.csproj|solutionrelative:07. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FE6C13-2578-4C2D-861F-64EC440AE52F}|06. Boiling Water\\06. Boiling Water.csproj|e:\\source\\test\\06. boiling water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FE6C13-2578-4C2D-861F-64EC440AE52F}|06. Boiling Water\\06. Boiling Water.csproj|solutionrelative:06. boiling water\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20102756-2ED2-47D3-9F99-CE13DD26A5EB}|05. Guess the Password\\05. Guess the Password.csproj|e:\\source\\test\\05. guess the password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20102756-2ED2-47D3-9F99-CE13DD26A5EB}|05. Guess the Password\\05. Guess the Password.csproj|solutionrelative:05. guess the password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8F979BD-E0B2-4E9F-9983-24DADC3419A9}|04.Greater Number\\04.Greater Number.csproj|e:\\source\\test\\04.greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8F979BD-E0B2-4E9F-9983-24DADC3419A9}|04.Greater Number\\04.Greater Number.csproj|solutionrelative:04.greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3324DB8-A590-492E-9F5D-3596E547DAD4}|Odd or Even ver. 2.0\\02. Odd or Even ver. 2.0.csproj|e:\\source\\test\\odd or even ver. 2.0\\02. odd or even ver. 2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3324DB8-A590-492E-9F5D-3596E547DAD4}|Odd or Even ver. 2.0\\02. Odd or Even ver. 2.0.csproj|solutionrelative:odd or even ver. 2.0\\02. odd or even ver. 2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F279BED-C6C7-427A-9CAF-5744FD0283DD}|Number1-9\\03. Numbers 1 to 9.csproj|e:\\source\\test\\number1-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F279BED-C6C7-427A-9CAF-5744FD0283DD}|Number1-9\\03. Numbers 1 to 9.csproj|solutionrelative:number1-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3608CCF-C542-4AC6-82DA-E0C82CE5A31E}|Valid Triangle\\Valid Triangle.csproj|e:\\source\\test\\valid triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3608CCF-C542-4AC6-82DA-E0C82CE5A31E}|Valid Triangle\\Valid Triangle.csproj|solutionrelative:valid triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C853063C-FE5E-485F-A0D8-EB8A8527624D}|Even or Odd\\Even or Odd.csproj|e:\\source\\test\\even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C853063C-FE5E-485F-A0D8-EB8A8527624D}|Even or Odd\\Even or Odd.csproj|solutionrelative:even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43FD017-89DD-4DCB-87EA-AD227999B599}|Ticket Type\\Ticket Type.csproj|e:\\source\\test\\ticket type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43FD017-89DD-4DCB-87EA-AD227999B599}|Ticket Type\\Ticket Type.csproj|solutionrelative:ticket type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3324DB8-A590-492E-9F5D-3596E547DAD4}|Odd or Even ver. 2.0\\Odd or Even ver. 2.0.csproj|e:\\source\\test\\odd or even ver. 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3324DB8-A590-492E-9F5D-3596E547DAD4}|Odd or Even ver. 2.0\\Odd or Even ver. 2.0.csproj|solutionrelative:odd or even ver. 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\07. Speed Info\\Program.cs",
+              "RelativeDocumentMoniker": "07. Speed Info\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\07. Speed Info\\Program.cs",
+              "RelativeToolTip": "07. Speed Info\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:26:53.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\06. Boiling Water\\Program.cs",
+              "RelativeDocumentMoniker": "06. Boiling Water\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\06. Boiling Water\\Program.cs",
+              "RelativeToolTip": "06. Boiling Water\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:24:43.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\05. Guess the Password\\Program.cs",
+              "RelativeDocumentMoniker": "05. Guess the Password\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\05. Guess the Password\\Program.cs",
+              "RelativeToolTip": "05. Guess the Password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:21:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\Number1-9\\Program.cs",
+              "RelativeDocumentMoniker": "Number1-9\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\Number1-9\\Program.cs",
+              "RelativeToolTip": "Number1-9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:15:39.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02. Odd or Even ver. 2.0",
+              "DocumentMoniker": "E:\\source\\Test\\Odd or Even ver. 2.0\\02. Odd or Even ver. 2.0.csproj",
+              "RelativeDocumentMoniker": "Odd or Even ver. 2.0\\02. Odd or Even ver. 2.0.csproj",
+              "ToolTip": "E:\\source\\Test\\Odd or Even ver. 2.0\\02. Odd or Even ver. 2.0.csproj",
+              "RelativeToolTip": "Odd or Even ver. 2.0\\02. Odd or Even ver. 2.0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T14:15:26.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\04.Greater Number\\Program.cs",
+              "RelativeDocumentMoniker": "04.Greater Number\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\04.Greater Number\\Program.cs",
+              "RelativeToolTip": "04.Greater Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:13:27.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\Valid Triangle\\Program.cs",
+              "RelativeDocumentMoniker": "Valid Triangle\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\Valid Triangle\\Program.cs",
+              "RelativeToolTip": "Valid Triangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:44:51.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\Ticket Type\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket Type\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\Ticket Type\\Program.cs",
+              "RelativeToolTip": "Ticket Type\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:31:47.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\Odd or Even ver. 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "Odd or Even ver. 2.0\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\Odd or Even ver. 2.0\\Program.cs",
+              "RelativeToolTip": "Odd or Even ver. 2.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:15:04.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Test\\Even or Odd\\Program.cs",
+              "RelativeDocumentMoniker": "Even or Odd\\Program.cs",
+              "ToolTip": "E:\\source\\Test\\Even or Odd\\Program.cs",
+              "RelativeToolTip": "Even or Odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:07:48.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\source\Test\Odd or Even ver. 2.0\bin\Debug\net8.0\Odd or Even ver. 2.0.exe
+E:\source\Test\Odd or Even ver. 2.0\bin\Debug\net8.0\Odd or Even ver. 2.0.deps.json
+E:\source\Test\Odd or Even ver. 2.0\bin\Debug\net8.0\Odd or Even ver. 2.0.runtimeconfig.json
+E:\source\Test\Odd or Even ver. 2.0\bin\Debug\net8.0\Odd or Even ver. 2.0.dll
+E:\source\Test\Odd or Even ver. 2.0\bin\Debug\net8.0\Odd or Even ver. 2.0.pdb
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\Odd or Even ver. 2.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\Odd or Even ver. 2.0.AssemblyInfoInputs.cache
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\Odd or Even ver. 2.0.AssemblyInfo.cs
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\Odd or Even ver. 2.0.csproj.CoreCompileInputs.cache
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\Odd or Even ver. 2.0.dll
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\refint\Odd or Even ver. 2.0.dll
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\Odd or Even ver. 2.0.pdb
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\Odd or Even ver. 2.0.genruntimeconfig.cache
+E:\source\Test\Odd or Even ver. 2.0\obj\Debug\net8.0\ref\Odd or Even ver. 2.0.dll

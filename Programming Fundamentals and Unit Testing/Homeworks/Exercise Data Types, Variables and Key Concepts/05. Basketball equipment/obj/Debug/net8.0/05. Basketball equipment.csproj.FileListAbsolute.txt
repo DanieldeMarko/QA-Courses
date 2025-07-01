@@ -1,0 +1,14 @@
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\bin\Debug\net8.0\05. Basketball equipment.exe
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\bin\Debug\net8.0\05. Basketball equipment.deps.json
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\bin\Debug\net8.0\05. Basketball equipment.runtimeconfig.json
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\bin\Debug\net8.0\05. Basketball equipment.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\bin\Debug\net8.0\05. Basketball equipment.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\05. Basketball equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\05. Basketball equipment.AssemblyInfoInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\05. Basketball equipment.AssemblyInfo.cs
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\05. Basketball equipment.csproj.CoreCompileInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\05. Basketball equipment.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\refint\05. Basketball equipment.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\05. Basketball equipment.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\05. Basketball equipment.genruntimeconfig.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\05. Basketball equipment\obj\Debug\net8.0\ref\05. Basketball equipment.dll

@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\Name and Expression\bin\Debug\net8.0\Name and Expression.exe
+E:\source\ConsoleAppSoftUNI\Name and Expression\bin\Debug\net8.0\Name and Expression.deps.json
+E:\source\ConsoleAppSoftUNI\Name and Expression\bin\Debug\net8.0\Name and Expression.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\Name and Expression\bin\Debug\net8.0\Name and Expression.dll
+E:\source\ConsoleAppSoftUNI\Name and Expression\bin\Debug\net8.0\Name and Expression.pdb
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\Name and Expression.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\Name and Expression.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\Name and Expression.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\Name and Expression.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\Name and Expression.dll
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\refint\Name and Expression.dll
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\Name and Expression.pdb
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\Name and Expression.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\Name and Expression\obj\Debug\net8.0\ref\Name and Expression.dll

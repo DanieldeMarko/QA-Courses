@@ -1,0 +1,14 @@
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\03. Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\03. Redecorating.AssemblyInfoInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\03. Redecorating.AssemblyInfo.cs
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\03. Redecorating.csproj.CoreCompileInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\bin\Debug\net8.0\03. Redecorating.exe
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\bin\Debug\net8.0\03. Redecorating.deps.json
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\bin\Debug\net8.0\03. Redecorating.runtimeconfig.json
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\bin\Debug\net8.0\03. Redecorating.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\bin\Debug\net8.0\03. Redecorating.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\03. Redecorating.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\refint\03. Redecorating.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\03. Redecorating.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\03. Redecorating.genruntimeconfig.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\03. Redecorating\obj\Debug\net8.0\ref\03. Redecorating.dll

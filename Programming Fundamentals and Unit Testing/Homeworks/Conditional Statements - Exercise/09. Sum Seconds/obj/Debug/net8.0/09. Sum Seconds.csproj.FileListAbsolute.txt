@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net8.0\09. Sum Seconds.exe
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net8.0\09. Sum Seconds.deps.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net8.0\09. Sum Seconds.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net8.0\09. Sum Seconds.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\bin\Debug\net8.0\09. Sum Seconds.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\09. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\09. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\09. Sum Seconds.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\09. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\09. Sum Seconds.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\refint\09. Sum Seconds.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\09. Sum Seconds.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\09. Sum Seconds.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\09. Sum Seconds\obj\Debug\net8.0\ref\09. Sum Seconds.dll

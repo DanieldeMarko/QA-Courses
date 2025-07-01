@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\08. Town Info\bin\Debug\net8.0\08. Town Info.exe
+E:\source\ConsoleAppSoftUNI\08. Town Info\bin\Debug\net8.0\08. Town Info.deps.json
+E:\source\ConsoleAppSoftUNI\08. Town Info\bin\Debug\net8.0\08. Town Info.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\08. Town Info\bin\Debug\net8.0\08. Town Info.dll
+E:\source\ConsoleAppSoftUNI\08. Town Info\bin\Debug\net8.0\08. Town Info.pdb
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\08. Town Info.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\08. Town Info.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\08. Town Info.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\08. Town Info.dll
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\refint\08. Town Info.dll
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\08. Town Info.pdb
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\08. Town Info.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\08. Town Info\obj\Debug\net8.0\ref\08. Town Info.dll

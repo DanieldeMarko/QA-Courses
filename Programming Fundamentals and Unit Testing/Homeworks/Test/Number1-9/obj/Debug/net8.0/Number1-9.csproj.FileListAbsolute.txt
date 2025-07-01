@@ -1,0 +1,14 @@
+E:\source\Test\Number1-9\obj\Debug\net8.0\Number1-9.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Test\Number1-9\obj\Debug\net8.0\Number1-9.AssemblyInfoInputs.cache
+E:\source\Test\Number1-9\obj\Debug\net8.0\Number1-9.AssemblyInfo.cs
+E:\source\Test\Number1-9\obj\Debug\net8.0\Number1-9.csproj.CoreCompileInputs.cache
+E:\source\Test\Number1-9\bin\Debug\net8.0\Number1-9.exe
+E:\source\Test\Number1-9\bin\Debug\net8.0\Number1-9.deps.json
+E:\source\Test\Number1-9\bin\Debug\net8.0\Number1-9.runtimeconfig.json
+E:\source\Test\Number1-9\bin\Debug\net8.0\Number1-9.dll
+E:\source\Test\Number1-9\bin\Debug\net8.0\Number1-9.pdb
+E:\source\Test\Number1-9\obj\Debug\net8.0\Number1-9.dll
+E:\source\Test\Number1-9\obj\Debug\net8.0\refint\Number1-9.dll
+E:\source\Test\Number1-9\obj\Debug\net8.0\Number1-9.pdb
+E:\source\Test\Number1-9\obj\Debug\net8.0\Number1-9.genruntimeconfig.cache
+E:\source\Test\Number1-9\obj\Debug\net8.0\ref\Number1-9.dll

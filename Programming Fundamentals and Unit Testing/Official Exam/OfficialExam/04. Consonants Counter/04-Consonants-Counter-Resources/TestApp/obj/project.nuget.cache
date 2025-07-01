@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UfwhDRMHttA=",
+  "success": true,
+  "projectFilePath": "E:\\QAFundamentals\\Programming Fundamentals and Unit Testing\\28. Exam\\04. Consonants Counter\\04-Consonants-Counter-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel de Marko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Daniel de Marko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Daniel de Marko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

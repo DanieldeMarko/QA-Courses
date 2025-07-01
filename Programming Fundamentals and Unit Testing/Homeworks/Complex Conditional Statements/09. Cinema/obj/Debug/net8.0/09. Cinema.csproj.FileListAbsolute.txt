@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\09. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\09. Cinema.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\09. Cinema.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\09. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net8.0\09. Cinema.exe
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net8.0\09. Cinema.deps.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net8.0\09. Cinema.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net8.0\09. Cinema.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\bin\Debug\net8.0\09. Cinema.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\09. Cinema.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\refint\09. Cinema.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\09. Cinema.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\09. Cinema.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\09. Cinema\obj\Debug\net8.0\ref\09. Cinema.dll

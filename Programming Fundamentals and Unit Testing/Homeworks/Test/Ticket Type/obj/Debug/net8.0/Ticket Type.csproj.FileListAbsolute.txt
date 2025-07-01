@@ -1,0 +1,14 @@
+E:\source\Test\Ticket Type\obj\Debug\net8.0\Ticket Type.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Test\Ticket Type\obj\Debug\net8.0\Ticket Type.AssemblyInfoInputs.cache
+E:\source\Test\Ticket Type\obj\Debug\net8.0\Ticket Type.AssemblyInfo.cs
+E:\source\Test\Ticket Type\obj\Debug\net8.0\Ticket Type.csproj.CoreCompileInputs.cache
+E:\source\Test\Ticket Type\bin\Debug\net8.0\Ticket Type.exe
+E:\source\Test\Ticket Type\bin\Debug\net8.0\Ticket Type.deps.json
+E:\source\Test\Ticket Type\bin\Debug\net8.0\Ticket Type.runtimeconfig.json
+E:\source\Test\Ticket Type\bin\Debug\net8.0\Ticket Type.dll
+E:\source\Test\Ticket Type\bin\Debug\net8.0\Ticket Type.pdb
+E:\source\Test\Ticket Type\obj\Debug\net8.0\Ticket Type.dll
+E:\source\Test\Ticket Type\obj\Debug\net8.0\refint\Ticket Type.dll
+E:\source\Test\Ticket Type\obj\Debug\net8.0\Ticket Type.pdb
+E:\source\Test\Ticket Type\obj\Debug\net8.0\Ticket Type.genruntimeconfig.cache
+E:\source\Test\Ticket Type\obj\Debug\net8.0\ref\Ticket Type.dll

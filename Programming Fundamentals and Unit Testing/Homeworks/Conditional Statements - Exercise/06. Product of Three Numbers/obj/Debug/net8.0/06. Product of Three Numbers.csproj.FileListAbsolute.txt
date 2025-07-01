@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.exe
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.deps.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\bin\Debug\net8.0\06. Product of Three Numbers.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\refint\06. Product of Three Numbers.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\06. Product of Three Numbers.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\06. Product of Three Numbers\obj\Debug\net8.0\ref\06. Product of Three Numbers.dll

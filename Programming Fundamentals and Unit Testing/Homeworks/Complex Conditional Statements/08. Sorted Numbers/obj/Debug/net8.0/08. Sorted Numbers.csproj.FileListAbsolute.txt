@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\bin\Debug\net8.0\08. Sorted Numbers.exe
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\bin\Debug\net8.0\08. Sorted Numbers.deps.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\bin\Debug\net8.0\08. Sorted Numbers.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\bin\Debug\net8.0\08. Sorted Numbers.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\bin\Debug\net8.0\08. Sorted Numbers.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\08. Sorted Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\08. Sorted Numbers.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\08. Sorted Numbers.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\08. Sorted Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\08. Sorted Numbers.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\refint\08. Sorted Numbers.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\08. Sorted Numbers.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\08. Sorted Numbers.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\08. Sorted Numbers\obj\Debug\net8.0\ref\08. Sorted Numbers.dll

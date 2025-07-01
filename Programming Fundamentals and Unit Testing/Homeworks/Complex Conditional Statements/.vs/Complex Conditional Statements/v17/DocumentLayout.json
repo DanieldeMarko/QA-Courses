@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel de Marko\\source\\repos\\Complex Conditional Statements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C29955CC-4921-4986-BFC6-FD2A110ACBED}|07. Vowel or Consonant\\07. Vowel or Consonant.csproj|c:\\users\\daniel de marko\\source\\repos\\complex conditional statements\\07. vowel or consonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C29955CC-4921-4986-BFC6-FD2A110ACBED}|07. Vowel or Consonant\\07. Vowel or Consonant.csproj|solutionrelative:07. vowel or consonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\Complex Conditional Statements\\07. Vowel or Consonant\\Program.cs",
+              "RelativeDocumentMoniker": "07. Vowel or Consonant\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\Complex Conditional Statements\\07. Vowel or Consonant\\Program.cs",
+              "RelativeToolTip": "07. Vowel or Consonant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:01:44.494Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

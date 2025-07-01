@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E96679-42E8-4936-8AA4-65912C122E66}|02. Centuries to Minutes\\02. Centuries to Minutes.csproj|e:\\source\\exercise data types, variables and key concepts\\02. centuries to minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E96679-42E8-4936-8AA4-65912C122E66}|02. Centuries to Minutes\\02. Centuries to Minutes.csproj|solutionrelative:02. centuries to minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8A04CF-589B-48F2-8AD5-908967B2739A}|06. Aquarium\\06. Aquarium.csproj|e:\\source\\exercise data types, variables and key concepts\\06. aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8A04CF-589B-48F2-8AD5-908967B2739A}|06. Aquarium\\06. Aquarium.csproj|solutionrelative:06. aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38300C6B-CA2C-4541-AD70-9F76496A4DC2}|05. Basketball equipment\\05. Basketball equipment.csproj|e:\\source\\exercise data types, variables and key concepts\\05. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38300C6B-CA2C-4541-AD70-9F76496A4DC2}|05. Basketball equipment\\05. Basketball equipment.csproj|solutionrelative:05. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8A04CF-589B-48F2-8AD5-908967B2739A}|06. Aquarium\\06. Aquarium.csproj|e:\\source\\exercise data types, variables and key concepts\\06. aquarium\\06. aquarium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB8A04CF-589B-48F2-8AD5-908967B2739A}|06. Aquarium\\06. Aquarium.csproj|solutionrelative:06. aquarium\\06. aquarium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E96679-42E8-4936-8AA4-65912C122E66}|02. Centuries to Minutes\\02. Centuries to Minutes.csproj|e:\\source\\exercise data types, variables and key concepts\\02. centuries to minutes\\02. centuries to minutes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8E96679-42E8-4936-8AA4-65912C122E66}|02. Centuries to Minutes\\02. Centuries to Minutes.csproj|solutionrelative:02. centuries to minutes\\02. centuries to minutes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F20E516-6680-4B1B-934B-1D4590EB039E}|04. Food Delivery\\04. Food Delivery.csproj|e:\\source\\exercise data types, variables and key concepts\\04. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F20E516-6680-4B1B-934B-1D4590EB039E}|04. Food Delivery\\04. Food Delivery.csproj|solutionrelative:04. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B5B0B9-E5EA-4D98-89A5-A01CD3F87976}|03. Redecorating\\03. Redecorating.csproj|e:\\source\\exercise data types, variables and key concepts\\03. redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B5B0B9-E5EA-4D98-89A5-A01CD3F87976}|03. Redecorating\\03. Redecorating.csproj|solutionrelative:03. redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961FCB26-AC0C-428D-A21B-52D86DB3CE74}|01. Reversed Numbers\\01. Reversed Numbers.csproj|e:\\source\\exercise data types, variables and key concepts\\01. reversed numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961FCB26-AC0C-428D-A21B-52D86DB3CE74}|01. Reversed Numbers\\01. Reversed Numbers.csproj|solutionrelative:01. reversed numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\02. Centuries to Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "02. Centuries to Minutes\\Program.cs",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\02. Centuries to Minutes\\Program.cs",
+              "RelativeToolTip": "02. Centuries to Minutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:39:17.806Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "06. Aquarium.csproj",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\06. Aquarium\\06. Aquarium.csproj",
+              "RelativeDocumentMoniker": "06. Aquarium\\06. Aquarium.csproj",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\06. Aquarium\\06. Aquarium.csproj",
+              "RelativeToolTip": "06. Aquarium\\06. Aquarium.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T17:48:46.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02. Centuries to Minutes.csproj",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\02. Centuries to Minutes\\02. Centuries to Minutes.csproj",
+              "RelativeDocumentMoniker": "02. Centuries to Minutes\\02. Centuries to Minutes.csproj",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\02. Centuries to Minutes\\02. Centuries to Minutes.csproj",
+              "RelativeToolTip": "02. Centuries to Minutes\\02. Centuries to Minutes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T15:02:37.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\06. Aquarium\\Program.cs",
+              "RelativeDocumentMoniker": "06. Aquarium\\Program.cs",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\06. Aquarium\\Program.cs",
+              "RelativeToolTip": "06. Aquarium\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:12:23.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\05. Basketball equipment\\Program.cs",
+              "RelativeDocumentMoniker": "05. Basketball equipment\\Program.cs",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\05. Basketball equipment\\Program.cs",
+              "RelativeToolTip": "05. Basketball equipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:44:22.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\04. Food Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "04. Food Delivery\\Program.cs",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\04. Food Delivery\\Program.cs",
+              "RelativeToolTip": "04. Food Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:16:16.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\03. Redecorating\\Program.cs",
+              "RelativeDocumentMoniker": "03. Redecorating\\Program.cs",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\03. Redecorating\\Program.cs",
+              "RelativeToolTip": "03. Redecorating\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:00:37.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\01. Reversed Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Reversed Numbers\\Program.cs",
+              "ToolTip": "E:\\source\\Exercise Data Types, Variables and Key Concepts\\01. Reversed Numbers\\Program.cs",
+              "RelativeToolTip": "01. Reversed Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:22:41.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

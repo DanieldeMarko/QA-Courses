@@ -1,0 +1,14 @@
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\05. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\05. Deposit Calculator.AssemblyInfoInputs.cache
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\05. Deposit Calculator.AssemblyInfo.cs
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\05. Deposit Calculator.csproj.CoreCompileInputs.cache
+E:\source\Key Concepts\05. Deposit Calculator\bin\Debug\net8.0\05. Deposit Calculator.exe
+E:\source\Key Concepts\05. Deposit Calculator\bin\Debug\net8.0\05. Deposit Calculator.deps.json
+E:\source\Key Concepts\05. Deposit Calculator\bin\Debug\net8.0\05. Deposit Calculator.runtimeconfig.json
+E:\source\Key Concepts\05. Deposit Calculator\bin\Debug\net8.0\05. Deposit Calculator.dll
+E:\source\Key Concepts\05. Deposit Calculator\bin\Debug\net8.0\05. Deposit Calculator.pdb
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\05. Deposit Calculator.dll
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\refint\05. Deposit Calculator.dll
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\05. Deposit Calculator.pdb
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\05. Deposit Calculator.genruntimeconfig.cache
+E:\source\Key Concepts\05. Deposit Calculator\obj\Debug\net8.0\ref\05. Deposit Calculator.dll

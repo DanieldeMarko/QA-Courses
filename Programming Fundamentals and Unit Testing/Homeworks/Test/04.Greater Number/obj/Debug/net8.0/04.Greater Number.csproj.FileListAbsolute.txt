@@ -1,0 +1,14 @@
+E:\source\Test\04.Greater Number\bin\Debug\net8.0\04.Greater Number.exe
+E:\source\Test\04.Greater Number\bin\Debug\net8.0\04.Greater Number.deps.json
+E:\source\Test\04.Greater Number\bin\Debug\net8.0\04.Greater Number.runtimeconfig.json
+E:\source\Test\04.Greater Number\bin\Debug\net8.0\04.Greater Number.dll
+E:\source\Test\04.Greater Number\bin\Debug\net8.0\04.Greater Number.pdb
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\04.Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\04.Greater Number.AssemblyInfoInputs.cache
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\04.Greater Number.AssemblyInfo.cs
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\04.Greater Number.csproj.CoreCompileInputs.cache
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\04.Greater Number.dll
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\refint\04.Greater Number.dll
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\04.Greater Number.pdb
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\04.Greater Number.genruntimeconfig.cache
+E:\source\Test\04.Greater Number\obj\Debug\net8.0\ref\04.Greater Number.dll

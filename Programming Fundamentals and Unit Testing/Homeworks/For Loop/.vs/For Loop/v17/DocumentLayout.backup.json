@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3559109F-6598-48CE-B280-1DE3BA053D69}|05. Numbers From 1 to N over 3\\05. Numbers From 1 to N over 3.csproj|c:\\users\\daniel de marko\\source\\repos\\for loop\\05. numbers from 1 to n over 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559109F-6598-48CE-B280-1DE3BA053D69}|05. Numbers From 1 to N over 3\\05. Numbers From 1 to N over 3.csproj|solutionrelative:05. numbers from 1 to n over 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B427874-7A5F-4EF7-9370-BC37197D7F9B}|07. Latin Letters\\07. Latin Letters.csproj|c:\\users\\daniel de marko\\source\\repos\\for loop\\07. latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B427874-7A5F-4EF7-9370-BC37197D7F9B}|07. Latin Letters\\07. Latin Letters.csproj|solutionrelative:07. latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{251399CF-BBDC-4073-9511-336FE6E15063}|06. Exam Countdown\\06. Exam Countdown.csproj|c:\\users\\daniel de marko\\source\\repos\\for loop\\06. exam countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{251399CF-BBDC-4073-9511-336FE6E15063}|06. Exam Countdown\\06. Exam Countdown.csproj|solutionrelative:06. exam countdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3E36FB-D767-4C73-86B4-646BC7A424C1}|04. Numbers Ending in 7\\04. Numbers Ending in 7.csproj|c:\\users\\daniel de marko\\source\\repos\\for loop\\04. numbers ending in 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3E36FB-D767-4C73-86B4-646BC7A424C1}|04. Numbers Ending in 7\\04. Numbers Ending in 7.csproj|solutionrelative:04. numbers ending in 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB8DA53-DFDF-4DFE-9B24-AB008625CE0C}|03. Sum Numbers\\03. Sum Numbers.csproj|c:\\users\\daniel de marko\\source\\repos\\for loop\\03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB8DA53-DFDF-4DFE-9B24-AB008625CE0C}|03. Sum Numbers\\03. Sum Numbers.csproj|solutionrelative:03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6FAD8B-EFD9-4AAB-9897-A7B860790422}|02. Numbers in Range\\02. Numbers in Range.csproj|c:\\users\\daniel de marko\\source\\repos\\for loop\\02. numbers in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6FAD8B-EFD9-4AAB-9897-A7B860790422}|02. Numbers in Range\\02. Numbers in Range.csproj|solutionrelative:02. numbers in range\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358379D4-1B85-496B-83A4-98B43B44F985}|For Loop\\01. Numbers in Range.csproj|c:\\users\\daniel de marko\\source\\repos\\for loop\\for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358379D4-1B85-496B-83A4-98B43B44F985}|For Loop\\01. Numbers in Range.csproj|solutionrelative:for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\07. Latin Letters\\Program.cs",
+              "RelativeDocumentMoniker": "07. Latin Letters\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\07. Latin Letters\\Program.cs",
+              "RelativeToolTip": "07. Latin Letters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:19:29.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\06. Exam Countdown\\Program.cs",
+              "RelativeDocumentMoniker": "06. Exam Countdown\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\06. Exam Countdown\\Program.cs",
+              "RelativeToolTip": "06. Exam Countdown\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:09:09.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\05. Numbers From 1 to N over 3\\Program.cs",
+              "RelativeDocumentMoniker": "05. Numbers From 1 to N over 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\05. Numbers From 1 to N over 3\\Program.cs",
+              "RelativeToolTip": "05. Numbers From 1 to N over 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T19:08:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\04. Numbers Ending in 7\\Program.cs",
+              "RelativeDocumentMoniker": "04. Numbers Ending in 7\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\04. Numbers Ending in 7\\Program.cs",
+              "RelativeToolTip": "04. Numbers Ending in 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:49:29.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\03. Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\03. Sum Numbers\\Program.cs",
+              "RelativeToolTip": "03. Sum Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:44:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\02. Numbers in Range\\Program.cs",
+              "RelativeDocumentMoniker": "02. Numbers in Range\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\02. Numbers in Range\\Program.cs",
+              "RelativeToolTip": "02. Numbers in Range\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:34:41.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\For Loop\\Program.cs",
+              "RelativeDocumentMoniker": "For Loop\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel de Marko\\source\\repos\\For Loop\\For Loop\\Program.cs",
+              "RelativeToolTip": "For Loop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:21:21.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

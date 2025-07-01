@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\01. Number Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\01. Number Type.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\01. Number Type.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\01. Number Type.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\net8.0\01. Number Type.exe
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\net8.0\01. Number Type.deps.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\net8.0\01. Number Type.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\net8.0\01. Number Type.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\bin\Debug\net8.0\01. Number Type.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\01. Number Type.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\refint\01. Number Type.dll
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\01. Number Type.pdb
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\01. Number Type.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Conditional Statements - Exercise\Conditional Statements - Exercise\obj\Debug\net8.0\ref\01. Number Type.dll

@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\06. Customer Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\06. Customer Info.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\06. Customer Info.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\06. Customer Info.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\06. Customer Info\bin\Debug\net8.0\06. Customer Info.exe
+E:\source\ConsoleAppSoftUNI\06. Customer Info\bin\Debug\net8.0\06. Customer Info.deps.json
+E:\source\ConsoleAppSoftUNI\06. Customer Info\bin\Debug\net8.0\06. Customer Info.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\06. Customer Info\bin\Debug\net8.0\06. Customer Info.dll
+E:\source\ConsoleAppSoftUNI\06. Customer Info\bin\Debug\net8.0\06. Customer Info.pdb
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\06. Customer Info.dll
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\refint\06. Customer Info.dll
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\06. Customer Info.pdb
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\06. Customer Info.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\06. Customer Info\obj\Debug\net8.0\ref\06. Customer Info.dll

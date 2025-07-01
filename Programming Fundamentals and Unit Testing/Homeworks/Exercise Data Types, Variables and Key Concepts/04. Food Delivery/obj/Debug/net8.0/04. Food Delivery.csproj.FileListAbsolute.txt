@@ -1,0 +1,14 @@
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\bin\Debug\net8.0\04. Food Delivery.exe
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\bin\Debug\net8.0\04. Food Delivery.deps.json
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\bin\Debug\net8.0\04. Food Delivery.runtimeconfig.json
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\bin\Debug\net8.0\04. Food Delivery.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\bin\Debug\net8.0\04. Food Delivery.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\04. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\04. Food Delivery.AssemblyInfoInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\04. Food Delivery.AssemblyInfo.cs
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\04. Food Delivery.csproj.CoreCompileInputs.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\04. Food Delivery.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\refint\04. Food Delivery.dll
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\04. Food Delivery.pdb
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\04. Food Delivery.genruntimeconfig.cache
+E:\source\Exercise Data Types, Variables and Key Concepts\04. Food Delivery\obj\Debug\net8.0\ref\04. Food Delivery.dll

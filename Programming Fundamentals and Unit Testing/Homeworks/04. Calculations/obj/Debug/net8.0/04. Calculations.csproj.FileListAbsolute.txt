@@ -1,0 +1,14 @@
+E:\source\ConsoleAppSoftUNI\04. Calculations\bin\Debug\net8.0\04. Calculations.exe
+E:\source\ConsoleAppSoftUNI\04. Calculations\bin\Debug\net8.0\04. Calculations.deps.json
+E:\source\ConsoleAppSoftUNI\04. Calculations\bin\Debug\net8.0\04. Calculations.runtimeconfig.json
+E:\source\ConsoleAppSoftUNI\04. Calculations\bin\Debug\net8.0\04. Calculations.dll
+E:\source\ConsoleAppSoftUNI\04. Calculations\bin\Debug\net8.0\04. Calculations.pdb
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\04. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\04. Calculations.AssemblyInfoInputs.cache
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\04. Calculations.AssemblyInfo.cs
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\04. Calculations.csproj.CoreCompileInputs.cache
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\04. Calculations.dll
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\refint\04. Calculations.dll
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\04. Calculations.pdb
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\04. Calculations.genruntimeconfig.cache
+E:\source\ConsoleAppSoftUNI\04. Calculations\obj\Debug\net8.0\ref\04. Calculations.dll

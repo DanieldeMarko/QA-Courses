@@ -1,0 +1,14 @@
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\bin\Debug\net8.0\06. Day of the week.exe
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\bin\Debug\net8.0\06. Day of the week.deps.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\bin\Debug\net8.0\06. Day of the week.runtimeconfig.json
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\bin\Debug\net8.0\06. Day of the week.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\bin\Debug\net8.0\06. Day of the week.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\06. Day of the week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\06. Day of the week.AssemblyInfoInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\06. Day of the week.AssemblyInfo.cs
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\06. Day of the week.csproj.CoreCompileInputs.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\06. Day of the week.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\refint\06. Day of the week.dll
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\06. Day of the week.pdb
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\06. Day of the week.genruntimeconfig.cache
+C:\Users\Daniel de Marko\source\repos\Complex Conditional Statements\06. Day of the week\obj\Debug\net8.0\ref\06. Day of the week.dll

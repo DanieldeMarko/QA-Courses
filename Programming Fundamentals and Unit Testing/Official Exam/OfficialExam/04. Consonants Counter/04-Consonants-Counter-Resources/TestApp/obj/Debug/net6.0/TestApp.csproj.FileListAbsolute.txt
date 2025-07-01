@@ -1,0 +1,11 @@
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+E:\QAFundamentals\Programming Fundamentals and Unit Testing\28. Exam\04. Consonants Counter\04-Consonants-Counter-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
